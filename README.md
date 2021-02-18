@@ -1,15 +1,3 @@
-# Default starter for Gridsome
+部署地址地址  https://gridsom-blog-pxs9k2jp1.vercel.app/
 
-This is the project you get when you run `gridsome create new-project`.
-
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
-"# gridsom-blog" 
+实现了选题二的页面展示和用strapi展示下方的文章列表

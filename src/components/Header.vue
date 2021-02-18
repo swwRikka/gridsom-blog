@@ -10,10 +10,6 @@
                     />
                 </g-link>
             </div>
-            <nav class="nav right">
-                <g-link class="nav__link" :to="{ name: 'journal' }">Journal</g-link>
-                <g-link class="nav__link" :to="{ name: 'contact' }">Say Hi!</g-link>
-            </nav>
         </div>
     </header>
 </template>
